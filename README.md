@@ -2,7 +2,7 @@
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas   
 🚀 Desenvolvedor em formação 
-📚 Em constante aprendizado na área de tecnologia
+📚 Curso Full-Stack em Andamento
 
 ---
 
